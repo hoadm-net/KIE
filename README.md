@@ -97,8 +97,6 @@ Xem [LayoutLMv3_README.md](LayoutLMv3_README.md) để biết:
 2. **Use LayoutXLM** (multilingual pre-trained)
 3. **Pre-tokenize** với Vietnamese word segmentation tools
 
-Chi tiết trong [LayoutLMv3_README.md](LayoutLMv3_README.md#-tương-lai-dataset-tiếng-việt)
-
 ## 🔬 Nghiên cứu
 
 ### FUNSD Experiments
@@ -111,7 +109,6 @@ Chi tiết trong [LayoutLMv3_README.md](LayoutLMv3_README.md#-tương-lai-datase
 - [ ] Collect và annotate dataset
 - [ ] Tokenizer adaptation cho tiếng Việt
 - [ ] Fine-tune trên food label domain
-- [ ] Benchmark so sánh với FUNSD
 
 ## 📊 Requirements
 
@@ -127,11 +124,6 @@ Chi tiết trong `requirements.txt`
 - [LayoutLMv3 Paper](https://arxiv.org/abs/2204.08387)
 - [FUNSD Dataset](https://guillaumejaume.github.io/FUNSD/)
 - [Hugging Face LayoutLMv3](https://huggingface.co/docs/transformers/model_doc/layoutlmv3)
-
-## 👤 Author
-
-**Hòa Đinh**  
-Email: hoadm_gpu@gmail.com
 
 ## 📝 License
 
