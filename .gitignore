@@ -1,6 +1,11 @@
 # Created by https://www.toptal.com/developers/gitignore/api/python,visualstudiocode
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,visualstudiocode
 
+# Project specific
+outputs/
+predictions/
+data/
+
 ### Python ###
 # Byte-compiled / optimized / DLL files
 __pycache__/
