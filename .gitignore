@@ -202,3 +202,8 @@ pyrightconfig.json
 # Data folders - ignore all subfolders but keep data/ folder
 data/*
 !data/.gitkeep
+
+# LayoutXLM outputs
+outputs_layoutxlm/
+predictions_layoutxlm/
+evaluation_results_layoutxlm/
